@@ -5,3 +5,5 @@ numpy==2.3.5
 plotly==6.0.1
 folium==0.15.0
 branca==0.7.0
+fastapi==0.115.12
+uvicorn==0.34.0
